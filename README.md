@@ -13,10 +13,9 @@ When user exit the app, data is persisted using mySQL database.
 
 ## Technologies
   - Python 3.8
-  - MySQL 8.0.23~
+  - MySQL 8.0.23
 
 ## Setup
-* Make sure you have Python installed on your computer (https://www.python.org/downloads/)
 * In your terminal navigate to `generation-mini-project` directory
 * (Ideally you'd create and activate a virtual environment, then run the pip install command given below, so the requirements aren't installed globally)
 * Run the below command 
